@@ -1,0 +1,22 @@
+{
+  "name": "jolly-ginger--backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ramstex/JollyGinger-backend.git"
+  },
+  "keywords": [
+    "jollyginger"
+  ],
+  "author": "ramstex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramstex/JollyGinger-backend/issues"
+  },
+  "homepage": "https://github.com/ramstex/JollyGinger-backend#readme"
+}
