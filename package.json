@@ -1,8 +1,9 @@
 {
-    "name": "backend",
+    "name": "jolly-ginger-backend",
     "version": "0.0.1",
     "description": "",
-    "author": "",
+    "repository": "git@github.com:ramstex/JollyGinger-backend.git",
+    "author": "Roman Polunin <ramstex88@gmail.com>",
     "private": true,
     "license": "UNLICENSED",
     "scripts": {
